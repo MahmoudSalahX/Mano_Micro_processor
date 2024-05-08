@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat May  4 12:20:41 2024
+# Process ID: 21136
+# Current directory: X:/XilianX/SIGMA_TEAM_MICROPROCESSOR_ALU_1/SIGMA_TEAM_MICROPROCESSOR_ALU_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source X:/XilianX/SIGMA_TEAM_MICROPROCESSOR_ALU_1/SIGMA_TEAM_MICROPROCESSOR_ALU_1.sim/sim_1/behav/xsim/xsim.dir/ALU_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: X:/XilianX/SIGMA_TEAM_MICROPROCESSOR_ALU_1/SIGMA_TEAM_MICROPROCESSOR_ALU_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: X:/XilianX/SIGMA_TEAM_MICROPROCESSOR_ALU_1/SIGMA_TEAM_MICROPROCESSOR_ALU_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source X:/XilianX/SIGMA_TEAM_MICROPROCESSOR_ALU_1/SIGMA_TEAM_MICROPROCESSOR_ALU_1.sim/sim_1/behav/xsim/xsim.dir/ALU_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Sat May  4 12:20:42 2024...
