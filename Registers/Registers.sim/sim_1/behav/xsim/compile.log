@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "X:/XilianX/Registers/Registers.srcs/sources_1/new/Accumulator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Accumulator
+INFO: [VRFC 10-311] analyzing module Data_Register
+INFO: [VRFC 10-311] analyzing module Instruction_Register
+INFO: [VRFC 10-311] analyzing module Temporary_Register
+INFO: [VRFC 10-311] analyzing module Address_Register
+INFO: [VRFC 10-311] analyzing module Program_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "X:/XilianX/Registers/Registers.srcs/sim_1/new/Registers_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Registers_tb

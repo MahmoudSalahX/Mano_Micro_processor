@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Registers_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Registers_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="480000000fs"></ZoomStartTime>
+      <ZoomEndTime time="572600001fs"></ZoomEndTime>
+      <Cursor1Time time="6900000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="210"></NameColumnWidth>
+      <ValueColumnWidth column_width="78"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="31" />
+   <wvobject fp_name="/Registers_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/PC_in_tb" type="array">
+      <obj_property name="ElementShortName">PC_in_tb[11:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_in_tb[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Address_in_tb" type="array">
+      <obj_property name="ElementShortName">Address_in_tb[11:0]</obj_property>
+      <obj_property name="ObjectShortName">Address_in_tb[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Data_in_tb" type="array">
+      <obj_property name="ElementShortName">Data_in_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_in_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Accumulator_in_tb" type="array">
+      <obj_property name="ElementShortName">Accumulator_in_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Accumulator_in_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Instruction_in_tb" type="array">
+      <obj_property name="ElementShortName">Instruction_in_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Instruction_in_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Temp_in_tb" type="array">
+      <obj_property name="ElementShortName">Temp_in_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Temp_in_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/PC_out_tb" type="array">
+      <obj_property name="ElementShortName">PC_out_tb[11:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_out_tb[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Address_out_tb" type="array">
+      <obj_property name="ElementShortName">Address_out_tb[11:0]</obj_property>
+      <obj_property name="ObjectShortName">Address_out_tb[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Data_out_tb" type="array">
+      <obj_property name="ElementShortName">Data_out_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_out_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Accumulator_out_tb" type="array">
+      <obj_property name="ElementShortName">Accumulator_out_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Accumulator_out_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Instruction_out_tb" type="array">
+      <obj_property name="ElementShortName">Instruction_out_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Instruction_out_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/Temp_out_tb" type="array">
+      <obj_property name="ElementShortName">Temp_out_tb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Temp_out_tb[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/LD_AC_tb" type="logic">
+      <obj_property name="ElementShortName">LD_AC_tb</obj_property>
+      <obj_property name="ObjectShortName">LD_AC_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/LD_DR_tb" type="logic">
+      <obj_property name="ElementShortName">LD_DR_tb</obj_property>
+      <obj_property name="ObjectShortName">LD_DR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/LD_IR_tb" type="logic">
+      <obj_property name="ElementShortName">LD_IR_tb</obj_property>
+      <obj_property name="ObjectShortName">LD_IR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/LD_TR_tb" type="logic">
+      <obj_property name="ElementShortName">LD_TR_tb</obj_property>
+      <obj_property name="ObjectShortName">LD_TR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/LD_AR_tb" type="logic">
+      <obj_property name="ElementShortName">LD_AR_tb</obj_property>
+      <obj_property name="ObjectShortName">LD_AR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/LD_PC_tb" type="logic">
+      <obj_property name="ElementShortName">LD_PC_tb</obj_property>
+      <obj_property name="ObjectShortName">LD_PC_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/CLR_AC_tb" type="logic">
+      <obj_property name="ElementShortName">CLR_AC_tb</obj_property>
+      <obj_property name="ObjectShortName">CLR_AC_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/CLR_DR_tb" type="logic">
+      <obj_property name="ElementShortName">CLR_DR_tb</obj_property>
+      <obj_property name="ObjectShortName">CLR_DR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/CLR_IR_tb" type="logic">
+      <obj_property name="ElementShortName">CLR_IR_tb</obj_property>
+      <obj_property name="ObjectShortName">CLR_IR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/CLR_TR_tb" type="logic">
+      <obj_property name="ElementShortName">CLR_TR_tb</obj_property>
+      <obj_property name="ObjectShortName">CLR_TR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/CLR_AR_tb" type="logic">
+      <obj_property name="ElementShortName">CLR_AR_tb</obj_property>
+      <obj_property name="ObjectShortName">CLR_AR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/CLR_PC_tb" type="logic">
+      <obj_property name="ElementShortName">CLR_PC_tb</obj_property>
+      <obj_property name="ObjectShortName">CLR_PC_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/INC_AC_tb" type="logic">
+      <obj_property name="ElementShortName">INC_AC_tb</obj_property>
+      <obj_property name="ObjectShortName">INC_AC_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/INC_DR_tb" type="logic">
+      <obj_property name="ElementShortName">INC_DR_tb</obj_property>
+      <obj_property name="ObjectShortName">INC_DR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/INC_IR_tb" type="logic">
+      <obj_property name="ElementShortName">INC_IR_tb</obj_property>
+      <obj_property name="ObjectShortName">INC_IR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/INC_TR_tb" type="logic">
+      <obj_property name="ElementShortName">INC_TR_tb</obj_property>
+      <obj_property name="ObjectShortName">INC_TR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/INC_AR_tb" type="logic">
+      <obj_property name="ElementShortName">INC_AR_tb</obj_property>
+      <obj_property name="ObjectShortName">INC_AR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Registers_tb/INC_PC_tb" type="logic">
+      <obj_property name="ElementShortName">INC_PC_tb</obj_property>
+      <obj_property name="ObjectShortName">INC_PC_tb</obj_property>
+   </wvobject>
+</wave_config>

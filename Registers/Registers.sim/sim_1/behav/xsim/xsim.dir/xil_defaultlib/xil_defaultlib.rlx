@@ -1,0 +1,7 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+X:/XilianX/Registers/Registers.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+X:/XilianX/Registers/Registers.srcs/sim_1/new/Registers_tb.v,1715100631,verilog,,,,Registers_tb,,,,,,,,
+X:/XilianX/Registers/Registers.srcs/sources_1/new/Accumulator.v,1714991735,verilog,,X:/XilianX/Registers/Registers.srcs/sim_1/new/Registers_tb.v,,Accumulator;Address_Register;Data_Register;Instruction_Register;Program_Counter;Temporary_Register,,,,,,,,

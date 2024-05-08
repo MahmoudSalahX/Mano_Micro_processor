@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed May  8 13:29:19 2024
+# Process ID: 7784
+# Current directory: X:/XilianX/Registers
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent24368 X:\XilianX\Registers\Registers.xpr
+# Log file: X:/XilianX/Registers/vivado.log
+# Journal file: X:/XilianX/Registers\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project X:/XilianX/Registers/Registers.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'X:/Vivado_Xilianx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 878.918 ; gain = 104.582
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May  8 16:06:23 2024...
